@@ -1,0 +1,19 @@
+Detection Rules for Threat Actor Simulation & Detection Toolkit
+
+1. Reconnaissance:
+   - Monitor for abnormal WHOIS queries and subdomain scans.
+
+2. Weaponization & Delivery:
+   - Identify payload creation attempts and suspicious phishing email characteristics.
+
+3. Exploitation:
+   - Alert on exploitation attempts targeting known vulnerabilities.
+
+4. Installation:
+   - Detect modifications to system startup or registry configurations.
+
+5. Command & Control (C2):
+   - Monitor for irregular DNS tunneling and beaconing activities.
+
+6. Exfiltration & Actions on Objectives:
+   - Watch for unusual encrypted data transfers or large data exfiltration events.
